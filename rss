@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Articles</title>
+    <link>https://yourwebsite.com</link>
+    <description>Latest news and articles from multiple sources</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2024 12:00:00 +0000</lastBuildDate>
+    
+    <item>
+      <title>Reagerer mot VAR-rapport: Kroken på døren for VAR</title>
+      <link>https://www.vg.no/sport/i/JbLBoj/reagerer-mot-var-rapport-kroken-paa-doeren-for-var</link>
+      <description>Details about reactions to the VAR report and its implications.</description>
+      <pubDate>Fri, 29 Nov 2024 08:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>En eksistensiell trussel</title>
+      <link>https://borsen.dagbladet.no/nyheter/en-eksistensiell-trussel/82301939</link>
+      <description>Insights on what is being described as an existential threat.</description>
+      <pubDate>Fri, 29 Nov 2024 07:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Prøvde å be pent: Vil nå tvinge Oracle til å gi fra seg JavaScript-merkevaren</title>
+      <link>https://www.kode24.no/artikkel/provde-a-be-pent-vil-na-tvinge-oracle-til-a-gi-fra-seg-javascript-merkevaren/82290427</link>
+      <description>Details on the ongoing battle over the JavaScript trademark.</description>
+      <pubDate>Thu, 28 Nov 2024 15:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Vite 6 er ute: Dette er nytt</title>
+      <link>https://www.kode24.no/artikkel/vite-6-er-ute-dette-er-nytt/82296325</link>
+      <description>Explore what's new in Vite 6.</description>
+      <pubDate>Thu, 28 Nov 2024 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Lokalavis: NFFs generalsekretær møtt med buing på årsmøte</title>
+      <link>https://www.aftenposten.no/sport/i/VzaV8r/lokalavis-nffs-generalsekretaer-moett-med-buing-paa-aarsmoete</link>
+      <description>The NFF General Secretary faced boos at a recent annual meeting.</description>
+      <pubDate>Wed, 27 Nov 2024 18:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
